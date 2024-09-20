@@ -1,2 +1,2 @@
 # MacOS.Inspire
-[This $2,000 Hackintosh SMASHES the $4,000 Mac Studio](https://youtu.be/UIbTB0ZVxno)
+- [MacOS Sequoia is AWESOME - Try these 8 things FIRST!](https://youtu.be/gPJTUaT2q5s)
